@@ -18,7 +18,7 @@
 
 
 
-Requiremnet :
+Requirements :
 
 1. Total No. of Restaurant.
 
