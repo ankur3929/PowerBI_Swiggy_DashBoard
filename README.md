@@ -1,5 +1,23 @@
 # PowerBI_Swiggy_DashBoard
 
+![Screenshot (29)](https://github.com/ankur3929/PowerBI_Swiggy_DashBoard/assets/75058933/158f5b4f-7175-456e-9f32-91de85e1f6c3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Requiremnet :
 
 1. Total No. of Restaurant.
